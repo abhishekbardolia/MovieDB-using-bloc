@@ -1,4 +1,4 @@
-# movie_db_practical
+# MovieDB with clean architecture
 
 A new Flutter project.
 
